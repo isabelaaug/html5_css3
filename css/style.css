@@ -1,0 +1,28 @@
+* { 
+	font-family: Helvetica; /* fonte padrao "Time New Roman", precisa ficar entre aspas se o nome tem mais de uma palavra*/
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+body {
+    background: #00478B;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p {
+    font-size: 16px;
+}
+
+header {
+    margin-top: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_icon {
+    width: 30px;
+}
